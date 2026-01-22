@@ -28,3 +28,26 @@ It manages employee, department, salary, and attendance data.
 6. 06_procedures.sql
 7. 07_triggers.sql
 8. 08_optional_module.sql
+
+## 📸 Project Screenshots
+
+### Database Tables
+![Tables](screenshots/tables_created.png)
+
+### Employee Data
+![Employee Data](screenshots/employee_data.png)
+
+### JOIN Query Output
+![Join Query](screenshots/join_query.png)
+
+### Salary View
+![View Output](screenshots/view_output.png)
+
+### Stored Procedure
+![Procedure](screenshots/stored_procedure.png)
+
+### Trigger Log
+![Trigger](screenshots/trigger_log.png)
+
+### Attendance Module
+![Attendance](screenshots/attendance.png)
